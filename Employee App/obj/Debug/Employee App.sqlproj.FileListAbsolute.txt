@@ -1,0 +1,12 @@
+c:\Users\feaya\OneDrive\Documents\GitHub\AzureCICD_test\Employee App\bin\Debug\Employee App.dacpac
+c:\Users\feaya\OneDrive\Documents\GitHub\AzureCICD_test\Employee App\bin\Debug\Employee App.deps.json
+c:\Users\feaya\OneDrive\Documents\GitHub\AzureCICD_test\Employee App\bin\Debug\Employee App.dll
+c:\Users\feaya\OneDrive\Documents\GitHub\AzureCICD_test\Employee App\bin\Debug\Employee App.pdb
+c:\Users\feaya\OneDrive\Documents\GitHub\AzureCICD_test\Employee App\obj\Debug\Employee App.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\feaya\OneDrive\Documents\GitHub\AzureCICD_test\Employee App\obj\Debug\Employee App.sourcelink.json
+c:\Users\feaya\OneDrive\Documents\GitHub\AzureCICD_test\Employee App\obj\Debug\Model.xml
+c:\Users\feaya\OneDrive\Documents\GitHub\AzureCICD_test\Employee App\obj\Debug\refactor.xml
+c:\Users\feaya\OneDrive\Documents\GitHub\AzureCICD_test\Employee App\obj\Debug\postdeploy.sql
+c:\Users\feaya\OneDrive\Documents\GitHub\AzureCICD_test\Employee App\obj\Debug\predeploy.sql
+c:\Users\feaya\OneDrive\Documents\GitHub\AzureCICD_test\Employee App\obj\Debug\Employee App.dll
+c:\Users\feaya\OneDrive\Documents\GitHub\AzureCICD_test\Employee App\obj\Debug\Employee App.pdb
